@@ -1,0 +1,7 @@
+project_id     = "unisangil-arquitectura-cloud"
+region         = "us-central1"
+cluster_name   = "cloud-native-k8s-cluster"
+environment    = "prod"
+min_node_count = 1
+max_node_count = 3
+machine_type   = "e2-standard-2"

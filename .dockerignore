@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+.git
+.github
+terraform
+k8s
+tests
+*.md
+.env

@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cloud-native-lab
+  labels:
+    app.kubernetes.io/part-of: unidad3-arquitectura-software
